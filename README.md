@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=E5A353&center=true&vCenter=true&width=850&lines=Building+modern+web+applications;Exploring+frontend%2C+backend%2C+and+Linux;Learning+by+shipping+real+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=E5A353&center=true&vCenter=true&width=850&lines=Building+modern+web+applications;Exploring+frontend%2C+backend%2C+IoT%2C+and+Linux;Learning+by+shipping+real+projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,14 +24,15 @@
 
 ## 👨‍💻 About Me
 
-I am an Informatics Engineering student who enjoys building practical web applications, designing clean user interfaces, and exploring modern development workflows.
+I am an Informatics Engineering student who enjoys building practical web applications, designing clean user interfaces, exploring IoT concepts, and improving modern development workflows.
 
-My current focus is building fullstack projects with **React.js**, **Next.js**, **Express.js**, **Laravel**, and relational databases. I also enjoy working in Linux environments, especially **Arch Linux** and **Ubuntu**, for development, server setup, and productivity workflows.
+My current focus is building fullstack projects with **React.js**, **Next.js**, **Express.js**, **Laravel**, and relational databases. I also enjoy working in Linux environments, especially **Arch Linux** and **Ubuntu**, for development, server setup, embedded experimentation, and productivity workflows.
 
 ```txt
 Frontend     → responsive UI, landing pages, dashboard interfaces
 Backend      → REST API, authentication, database-driven systems
 Database     → MySQL and PostgreSQL schema design
+IoT          → Arduino IDE, C++, sensors, and microcontroller basics
 Workflow     → Git, Docker, Postman, and Linux-based development
 Design       → Figma and AI-assisted UI exploration with Google Stitch
 ```
@@ -116,6 +117,27 @@ Design       → Figma and AI-assisted UI exploration with Google Stitch
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">IoT & Embedded</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=arduino,cpp" alt="IoT and Embedded Stack" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Arduino_IDE-111111?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino IDE" />
+        <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+        <img src="https://img.shields.io/badge/Microcontroller_Basics-111111?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Microcontroller Basics" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Development Interest</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Web_Development-111111?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Web Development" />
+        <img src="https://img.shields.io/badge/IoT_Prototyping-111111?style=for-the-badge&logo=arduino&logoColor=00979D" alt="IoT Prototyping" />
+        <img src="https://img.shields.io/badge/System_Design-111111?style=for-the-badge&logo=diagram&logoColor=e5a353" alt="System Design" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -139,8 +161,8 @@ Design       → Figma and AI-assisted UI exploration with Google Stitch
       Designing relational database schemas using MySQL and PostgreSQL for academic and personal projects.
     </td>
     <td width="50%">
-      <b>Linux Workflow</b><br />
-      Improving development productivity using Arch Linux, Ubuntu, Git, Docker, and terminal-based workflows.
+      <b>IoT Prototyping</b><br />
+      Exploring Arduino IDE, C++, sensors, and microcontroller-based prototypes for practical embedded systems.
     </td>
   </tr>
 </table>
