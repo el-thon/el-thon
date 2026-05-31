@@ -153,17 +153,6 @@ Design       → Figma and AI-assisted UI exploration with Google Stitch
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=el-thon&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=el-thon&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=e5a353&icon_color=e5a353&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-thon&layout=compact&theme=tokyonight&hide_border=true&title_color=e5a353" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=el-thon&theme=tokyonight&hide_border=true&ring=e5a353&fire=e5a353&currStreakLabel=e5a353" alt="GitHub Streak" />
 </p>
