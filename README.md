@@ -147,27 +147,25 @@ Design       → Figma and AI-assisted UI exploration with Google Stitch
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=el-thon&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=e5a353&icon_color=e5a353" alt="Elthon GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-thon&layout=compact&theme=tokyonight&hide_border=true&title_color=e5a353" alt="Top Languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=el-thon&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=el-thon&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=e5a353&icon_color=e5a353&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-thon&layout=compact&theme=tokyonight&hide_border=true&title_color=e5a353" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=el-thon&theme=tokyonight&hide_border=true&ring=e5a353&fire=e5a353&currStreakLabel=e5a353" alt="GitHub Streak" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/el-thon/el-thon/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/el-thon/el-thon/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/el-thon/el-thon/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=el-thon&theme=tokyonight&hide_border=true&ring=e5a353&fire=e5a353&currStreakLabel=e5a353" alt="GitHub Streak" />
 </p>
 
 ---
