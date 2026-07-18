@@ -41,101 +41,51 @@ Design       → Figma and AI-assisted UI exploration with Google Stitch
 
 ## 🚀 Tech Stack
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Languages</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,php,cpp,java" alt="Programming Languages" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
-        <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-        <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Frontend</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" alt="Frontend Stack" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/React.js-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-        <img src="https://img.shields.io/badge/Blade_UI-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Blade UI" />
-        <img src="https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS" />
-      </p>
+    <td width="180"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,php,cpp,java" alt="JavaScript, PHP, C++, and Java" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Backend</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" alt="Backend Stack" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-        <img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Database</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database Stack" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-        <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-      </p>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, and Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Blade_UI-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Blade UI" />
+      <img src="https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Tools & Workflow</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=docker,postman,git,figma" alt="Tools" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-        <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
-        <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-        <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-        <img src="https://img.shields.io/badge/Google_Stitch-111111?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google Stitch" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Operating System</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=ubuntu,arch" alt="Operating System" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Ubuntu-111111?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
-        <img src="https://img.shields.io/badge/Arch_Linux-111111?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" />
-      </p>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" alt="Node.js, Express.js, and Laravel" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">IoT & Embedded</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=arduino,cpp" alt="IoT and Embedded Stack" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Arduino_IDE-111111?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino IDE" />
-        <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-        <img src="https://img.shields.io/badge/Microcontroller_Basics-111111?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Microcontroller Basics" />
-      </p>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL and PostgreSQL" />
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Development Interest</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Web_Development-111111?style=for-the-badge&logo=googlechrome&logoColor=4285F4" alt="Web Development" />
-        <img src="https://img.shields.io/badge/IoT_Prototyping-111111?style=for-the-badge&logo=arduino&logoColor=00979D" alt="IoT Prototyping" />
-        <img src="https://img.shields.io/badge/System_Design-111111?style=for-the-badge&logo=diagram&logoColor=e5a353" alt="System Design" />
-      </p>
+  </tr>
+  <tr>
+    <td><b>Tools & Design</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,docker,postman,figma" alt="Git, Docker, Postman, and Figma" />
+      <img src="https://img.shields.io/badge/Google_Stitch-111111?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google Stitch" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Linux</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=arch,ubuntu" alt="Arch Linux and Ubuntu" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>IoT & Embedded</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=arduino,cpp" alt="Arduino and C++" />
+      <img src="https://img.shields.io/badge/Microcontroller_Basics-111111?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Microcontroller Basics" />
     </td>
   </tr>
 </table>
@@ -169,30 +119,34 @@ Design       → Figma and AI-assisted UI exploration with Google Stitch
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=el-thon&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=el-thon&theme=tokyonight&hide_border=true&ring=e5a353&fire=e5a353&currStreakLabel=e5a353" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=el-thon&theme=tokyonight&hide_border=true&background=00000000&ring=e5a353&fire=e5a353&currStreakLabel=e5a353" alt="Elthon's GitHub contribution streak" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
+
+<p align="center">
+  I am open to collaboration, internship opportunities, freelance projects, and conversations about web development, Linux, and IoT.
+</p>
 
 <p align="center">
   <a href="mailto:elthonjhonkevin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Send_a_Message-e5a353?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Send an email" />
   </a>
   <a href="https://www.linkedin.com/in/elthon-jhon-kevin-227bb2293/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-e5a353?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://github.com/el-thon">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/el-thon?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-View_My_Work-e5a353?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="View GitHub repositories" />
   </a>
+</p>
+
+<p align="center">
+  <sub>Based in Indonesia • Available for remote collaboration</sub>
 </p>
 
 ---
