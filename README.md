@@ -69,6 +69,13 @@ Design       → Figma and AI-assisted UI exploration with Google Stitch
     </td>
   </tr>
   <tr>
+    <td><b>Game Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=godot" alt="Godot Engine" />
+      <img src="https://img.shields.io/badge/GDScript-111111?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="GDScript" />
+    </td>
+  </tr>
+  <tr>
     <td><b>Tools & Design</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=git,docker,postman,figma" alt="Git, Docker, Postman, and Figma" />
